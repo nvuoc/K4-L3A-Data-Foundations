@@ -1,0 +1,14 @@
+doc_id,file_path,title,source_url,retrieved_at,document_version,license_or_permission
+academic-appeal-procedure,data/university/academic-appeal-procedure.md,Quy trình phúc khảo điểm thi học phần,https://example.edu/khao-thi/phuc-khao-diem-thi,2026-08-18,2026.1,public-source
+course-registration,data/university/course-registration.md,Đăng ký học phần,https://example.edu/hoc-vu/dang-ky-hoc-phan,2026-08-02,2026.1,public-source
+dormitory-regulations,data/university/dormitory-regulations.md,Nội quy và thủ tục đăng ký ký túc xá,https://example.edu/ktx/noi-quy-dang-ky,2026-08-15,2026.1,public-source
+faculty-research-grant,data/university/faculty-research-grant.md,Quy định tài trợ nghiên cứu khoa học giảng viên,https://example.edu/nckh/tai-tro-giang-vien,2026-08-20,2026.1,public-source
+hoc-bong-doanh-nghiep-tai-tro,data/university/hoc-bong-doanh-nghiep-tai-tro.md,Quy chế Học bổng Doanh nghiệp và Đối tác tài trợ,https://daihoc.edu.vn/doanh-nghiep/hoc-bong-tai-tro,2026-09-02,2026.1,public-source
+hoc-bong-ho-tro-sinh-vien-vuot-kho,data/university/hoc-bong-ho-tro-sinh-vien-vuot-kho.md,Chính sách Học bổng Hỗ trợ sinh viên có hoàn cảnh khó khăn,https://daihoc.edu.vn/ctsv/hoc-bong-vuot-kho,2026-09-03,2026.1,public-source
+hoc-bong-khuyen-khich-hoc-tap,data/university/hoc-bong-khuyen-khich-hoc-tap.md,Quy định Học bổng Khuyến khích học tập,https://daihoc.edu.vn/ctsv/hoc-bong-khuyen-khich-hoc-tap,2026-09-01,2026.1,public-source
+hoc-bong-nghien-cuu-sau-dai-hoc,data/university/hoc-bong-nghien-cuu-sau-dai-hoc.md,Quy chế Học bổng Nghiên cứu Sau đại học và Trợ lý nghiên cứu,https://daihoc.edu.vn/sau-dai-hoc/hoc-bong-thac-si-tien-si,2026-09-05,2026.1,public-source
+hoc-bong-trao-doi-quoc-te,data/university/hoc-bong-trao-doi-quoc-te.md,Quy chế Học bổng Trao đổi sinh viên quốc tế,https://daihoc.edu.vn/quoc-te/hoc-bong-trao-doi,2026-09-04,2026.1,public-source
+library-services,data/university/library-services.md,Dịch vụ thư viện,https://example.edu/thu-vien/dich-vu,2026-08-02,2026.1,public-source
+quy-trinh-xet-va-khieu-nai-hoc-bong,data/university/quy-trinh-xet-va-khieu-nai-hoc-bong.md,"Quy trình Xét duyệt, Công bố và Khiếu nại kết quả học bổng",https://daihoc.edu.vn/ctsv/quy-trinh-xet-khieu-nai-hoc-bong,2026-09-06,2026.1,public-source
+scholarship-policy,data/university/scholarship-policy.md,Chính sách học bổng khuyến khích học tập,https://example.edu/ctsv/hoc-bong-khuyen-khich,2026-08-12,2026.1,public-source
+tuition-fee-regulations,data/university/tuition-fee-regulations.md,Quy định học phí và gia hạn nộp học phí,https://example.edu/tai-chinh/quy-dinh-hoc-phi,2026-08-10,2026.2,public-source
