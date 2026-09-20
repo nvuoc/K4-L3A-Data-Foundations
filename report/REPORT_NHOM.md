@@ -1,6 +1,6 @@
 # Báo Cáo Nhóm — Lab 7: Embedding & Vector Store
 
-**Nhóm:** G03 — K4-L3A  
+**Nhóm:** G016 — K4-L3A  
 **Thành viên:** Nguyễn Văn Ước 
 Chu Minh Quân 
 Trần Trọng Chinh
