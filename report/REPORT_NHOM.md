@@ -1,7 +1,9 @@
 # Báo Cáo Nhóm — Lab 7: Embedding & Vector Store
 
 **Nhóm:** G03 — K4-L3A  
-**Thành viên:** Nguyễn Văn Ước (Đại diện nhóm / Thành viên chính) *(nhóm có thể bổ sung thêm họ tên các thành viên khác vào đây)*  
+**Thành viên:** Nguyễn Văn Ước 
+Chu Minh Quân 
+Trần Trọng Chinh
 **Ngày:** 2026-09-19  
 
 > **Nộp 1 bản / nhóm.** Phần cá nhân (hướng tiếp cận, kết quả riêng, dự đoán…) mỗi thành viên nộp riêng trong `REPORT_CANHAN.md`. Chi tiết thang điểm: `docs/SCORING.md`.
